@@ -1,15 +1,13 @@
-# Notes
+# Notes — One Sentence for a Traveler from 1800
 
-Bounty: "One Sentence for a Traveler from 1800" (make.fun, slug
-u-po-pu-one-sentence-for-a-traveler-from-1800-7e6162fb). One sentence, at
-most 200 characters, explaining the modern internet to someone arriving
-from 1800 — a picture they could hold in their head, in words of their own
-time. Written by a program (program/v1) to `/output/entry.txt`.
+The sentence (179 characters):
 
-The sentence:
+"Picture a web of copper wires spanning every kingdom, along which any man's letter, likeness, or whole library may fly swifter than lightning, to be read by all the world at once."
 
-> Imagine every printing press, letter, and town crier on Earth joined by copper wires into one great hall where any man may read any page and shout back — instantly, and mostly about cats.
+Why it is built this way:
 
-Why this one: presses, letters and town criers are the three information
-machines of 1800; joining them with wires into one hall gives the traveler
-the whole shape at once, and the cats are the truest detail of all.
+- **A picture first.** The brief asks for an image the traveler could hold in their head, so the sentence opens with "Picture" and gives one concrete scene — a web of copper wires — rather than an abstract definition.
+- **Words of their own time.** Every noun is something a person of 1800 already knew: copper wires, kingdoms, a letter, a likeness (a portrait), a library, lightning. Nothing in the sentence depends on a post-1800 coinage; even "web" is used in its old sense of a woven net.
+- **The three things the internet carries.** A letter stands for messages, a likeness for images, and a whole library for stored knowledge — the traveler's own categories for what the wires move.
+- **Speed and reach in their measures.** "Swifter than lightning" is the fastest thing an 1800 mind could name, and "read by all the world at once" captures the part no stagecoach or post rider could ever do: everyone, everywhere, at the same moment.
+- **One breath, one sentence.** A single flowing clause chain, the way a traveler of that era would actually have heard it explained at an inn table.
